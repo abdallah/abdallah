@@ -24,7 +24,7 @@ These days I'm mostly building **tooling for AI coding agents**: session orchest
 ### 🕒 Recently pushed
 
 <!-- RECENT:START -->
-- [session-hub](https://github.com/abdallah/session-hub): Registry for Claude Code sessions across machines: progress reports, inbox, herdr sidebar · Go · 2026-10-04
+- [session-hub](https://github.com/abdallah/session-hub): Registry for Claude Code sessions across machines: progress reports, inbox, herdr sidebar · Go · 2026-10-06
 - [glab-lean](https://github.com/abdallah/glab-lean): Token-lean GitLab CLI and Agent Skill for AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) · Python · 2026-10-02
 - [pulsechecks](https://github.com/abdallah/pulsechecks): Serverless, multi-tenant job monitoring (cron heartbeats) for AWS or GCP. Late-run detection with email and Mattermost alerts · Python · 2026-07-11
 - [hermes-mempalace](https://github.com/abdallah/hermes-mempalace): Standalone MemPalace memory provider plugin for Hermes Agent · Python · 2026-06-07
