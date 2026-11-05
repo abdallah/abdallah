@@ -24,11 +24,11 @@ These days I'm mostly building **tooling for AI coding agents**: session orchest
 ### 🕒 Recently pushed
 
 <!-- RECENT:START -->
+- [mattermost-dm](https://github.com/abdallah/mattermost-dm): Claude Code skill and script for sending Mattermost DMs with an exact preview, all-or-nothing batches and an optional personal voice · Python · 2026-11-05
 - [session-hub](https://github.com/abdallah/session-hub): Registry for Claude Code sessions across machines: progress reports, inbox, herdr sidebar · Go · 2026-10-29
 - [glab-lean](https://github.com/abdallah/glab-lean): Token-lean GitLab CLI and Agent Skill for AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) · Python · 2026-10-12
 - [pulsechecks](https://github.com/abdallah/pulsechecks): Serverless, multi-tenant job monitoring (cron heartbeats) for AWS or GCP. Late-run detection with email and Mattermost alerts · Python · 2026-07-11
 - [hermes-mempalace](https://github.com/abdallah/hermes-mempalace): Standalone MemPalace memory provider plugin for Hermes Agent · Python · 2026-06-07
-- [gpforge](https://github.com/abdallah/gpforge): Turn a song name into a Guitar Pro file: find a good one, or build it from a tab and align the rhythm to a recording · Python · 2026-06-01
 <!-- RECENT:END -->
 
 <sub>Updated daily by a GitHub Action.</sub>
